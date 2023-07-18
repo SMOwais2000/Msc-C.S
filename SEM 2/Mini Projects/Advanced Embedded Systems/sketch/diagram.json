@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "author": "Mohammed Owais Sayed",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": -189.09, "left": 186.7, "attrs": {} },
+    {
+      "type": "wokwi-lcd1602",
+      "id": "lcd1",
+      "top": 92.41,
+      "left": 492.54,
+      "attrs": { "pins": "i2c" }
+    },
+    { "type": "wokwi-dht22", "id": "dht1", "top": 46.41, "left": 87.11, "attrs": {} }
+  ],
+  "connections": [
+    [ "uno:A5", "lcd1:SCL", "green", [ "v0" ] ],
+    [ "uno:A4", "lcd1:SDA", "green", [ "v0" ] ],
+    [ "uno:5V", "lcd1:VCC", "red", [ "v0" ] ],
+    [ "uno:GND.2", "dht1:GND", "black", [ "v5.62", "h-231.84" ] ],
+    [ "uno:5V", "dht1:VCC", "red", [ "v0" ] ],
+    [ "uno:7", "dht1:SDA", "green", [ "v2.48", "h-276.67" ] ],
+    [ "uno:GND.3", "lcd1:GND", "black", [ "v0" ] ]
+  ]
+}

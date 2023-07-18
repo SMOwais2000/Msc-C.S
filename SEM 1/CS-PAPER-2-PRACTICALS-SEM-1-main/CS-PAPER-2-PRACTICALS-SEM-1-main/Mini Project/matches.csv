@@ -1,0 +1,201 @@
+id,Season,city,team1,team2,toss_winner,toss_decision,winner,win_by_runs,player_of_match,venue,umpire
+1,IPL-2017,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,35,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar
+2,IPL-2017,Pune,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,SPD Smith,Maharashtra Cricket Association Stadium,A Nand Kishore
+3,IPL-2017,Rajkot,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,CA Lynn,Saurashtra Cricket Association Stadium,Nitin Menon
+4,IPL-2017,Indore,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,GJ Maxwell,Holkar Cricket Stadium,AK Chaudhary
+5,IPL-2017,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,15,KM Jadhav,M Chinnaswamy Stadium,
+6,IPL-2017,Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",A Deshmukh
+7,IPL-2017,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,N Rana,Wankhede Stadium,Nitin Menon
+8,IPL-2017,Indore,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,AR Patel,Holkar Cricket Stadium,AK Chaudhary
+9,IPL-2017,Pune,Delhi Daredevils,Rising Pune Supergiant,Rising Pune Supergiant,field,Delhi Daredevils,97,SV Samson,Maharashtra Cricket Association Stadium,AY Dandekar
+10,IPL-2017,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,JJ Bumrah,Wankhede Stadium,Nitin Menon
+11,IPL-2017,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,SP Narine,Eden Gardens,A Deshmukh
+12,IPL-2017,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,KA Pollard,M Chinnaswamy Stadium,KN Ananthapadmanabhan
+13,IPL-2017,Rajkot,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,AJ Tye,Saurashtra Cricket Association Stadium,A Nand Kishore
+14,IPL-2017,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,17,RV Uthappa,Eden Gardens,AY Dandekar
+15,IPL-2017,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,51,CJ Anderson,Feroz Shah Kotla,YC Barde
+16,IPL-2017,Mumbai,Gujarat Lions,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,N Rana,Wankhede Stadium,A Nand Kishore
+17,IPL-2017,Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,27,BA Stokes,M Chinnaswamy Stadium,KN Ananthapadmanabhan
+18,IPL-2017,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,0,NM Coulter-Nile,Feroz Shah Kotla,Nitin Menon
+19,IPL-2017,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,5,B Kumar,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar
+20,IPL-2017,Rajkot,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,21,CH Gayle,Saurashtra Cricket Association Stadium,S Ravi
+21,IPL-2017,Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,15,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",CB Gaffaney
+22,IPL-2017,Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,JC Buttler,Holkar Cricket Stadium,M Erasmus
+23,IPL-2017,Kolkata,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,SK Raina,Eden Gardens,CB Gaffaney
+24,IPL-2017,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,14,MJ McClenaghan,Wankhede Stadium,A Nand Kishore
+25,IPL-2017,Pune,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,MS Dhoni,Maharashtra Cricket Association Stadium,AY Dandekar
+26,IPL-2017,Rajkot,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Kings XI Punjab,26,HM Amla,Saurashtra Cricket Association Stadium,AK Chaudhary
+27,IPL-2017,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,82,NM Coulter-Nile,Eden Gardens,CB Gaffaney
+28,IPL-2017,Mumbai,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,Rising Pune Supergiant,3,BA Stokes,Wankhede Stadium,A Nand Kishore
+29,IPL-2017,Pune,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,RV Uthappa,Maharashtra Cricket Association Stadium,AY Dandekar
+30,IPL-2017,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,AJ Tye,M Chinnaswamy Stadium,AK Chaudhary
+31,IPL-2017,Kolkata,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,G Gambhir,Eden Gardens,NJ Llong
+32,IPL-2017,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,26,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon
+33,IPL-2017,Pune,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,61,LH Ferguson,Maharashtra Cricket Association Stadium,KN Ananthapadmanabhan
+34,IPL-2017,Rajkot,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,0,KH Pandya,Saurashtra Cricket Association Stadium,AK Chaudhary
+35,IPL-2017,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",YC Barde
+36,IPL-2017,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,48,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar
+37,IPL-2017,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,0,RG Sharma,Wankhede Stadium,AK Chaudhary
+38,IPL-2017,Pune,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,BA Stokes,Maharashtra Cricket Association Stadium,M Erasmus
+39,IPL-2017,Delhi,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,Mohammed Shami,Feroz Shah Kotla,YC Barde
+40,IPL-2017,Kolkata,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,RA Tripathi,Eden Gardens,KN Ananthapadmanabhan
+41,IPL-2017,Delhi,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,RR Pant,Feroz Shah Kotla,M Erasmus
+42,IPL-2017,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,19,Sandeep Sharma,M Chinnaswamy Stadium,CB Gaffaney
+43,IPL-2017,Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rising Pune Supergiant,12,JD Unadkat,"Rajiv Gandhi International Stadium, Uppal",KN Ananthapadmanabhan
+44,IPL-2017,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,146,LMP Simmons,Feroz Shah Kotla,Nitin Menon
+45,IPL-2017,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,SP Narine,M Chinnaswamy Stadium,AY Dandekar
+46,IPL-2017,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,DR Smith,"Punjab Cricket Association IS Bindra Stadium, Mohali",A Nand Kishore
+47,IPL-2017,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,0,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",KN Ananthapadmanabhan
+48,IPL-2017,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,14,MM Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",A Nand Kishore
+49,IPL-2017,Kanpur,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,SS Iyer,Green Park,YC Barde
+50,IPL-2017,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,7,WP Saha,Wankhede Stadium,A Deshmukh
+51,IPL-2017,Delhi,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,Delhi Daredevils,7,KK Nair,Feroz Shah Kotla,KN Ananthapadmanabhan
+52,IPL-2017,Kanpur,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,Mohammed Siraj,Green Park,AK Chaudhary
+53,IPL-2017,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,9,AT Rayudu,Eden Gardens,A Nand Kishore
+54,IPL-2017,Pune,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,JD Unadkat,Maharashtra Cricket Association Stadium,AY Dandekar
+55,IPL-2017,Delhi,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,10,HV Patel,Feroz Shah Kotla,CK Nandan
+56,IPL-2017,Mumbai,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,Rising Pune Supergiant,20,Washington Sundar,Wankhede Stadium,S Ravi
+57,IPL-2017,Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,NM Coulter-Nile,M Chinnaswamy Stadium,AK Chaudhary
+58,IPL-2017,Bangalore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,KV Sharma,M Chinnaswamy Stadium,NJ Llong
+59,IPL-2017,Hyderabad,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians,1,KH Pandya,"Rajiv Gandhi International Stadium, Uppal",NJ Llong
+60,IPL-2008,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,140,BB McCullum,M Chinnaswamy Stadium,Asad Rauf
+61,IPL-2008,Chandigarh,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,33,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",MR Benson
+62,IPL-2008,Delhi,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,0,MF Maharoof,Feroz Shah Kotla,Aleem Dar
+63,IPL-2008,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,0,MV Boucher,Wankhede Stadium,SJ Davis
+64,IPL-2008,Kolkata,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,Kolkata Knight Riders,0,DJ Hussey,Eden Gardens,BF Bowden
+65,IPL-2008,Jaipur,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Rajasthan Royals,0,SR Watson,Sawai Mansingh Stadium,Aleem Dar
+66,IPL-2008,Hyderabad,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,0,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",IL Howell
+67,IPL-2008,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,6,ML Hayden,"MA Chidambaram Stadium, Chepauk",DJ Harper
+68,IPL-2008,Hyderabad,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf
+69,IPL-2008,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,66,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",Aleem Dar
+70,IPL-2008,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,SR Watson,M Chinnaswamy Stadium,MR Benson
+71,IPL-2008,Chennai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,0,JDP Oram,"MA Chidambaram Stadium, Chepauk",BF Bowden
+72,IPL-2008,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,0,AC Gilchrist,Dr DY Patil Sports Academy,Asad Rauf
+73,IPL-2008,Chandigarh,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,0,SM Katich,"Punjab Cricket Association Stadium, Mohali",RE Koertzen
+74,IPL-2008,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,13,MS Dhoni,M Chinnaswamy Stadium,BR Doctrove
+75,IPL-2008,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,0,ST Jayasuriya,Eden Gardens,BF Bowden
+76,IPL-2008,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,10,GD McGrath,Feroz Shah Kotla,Aleem Dar
+77,IPL-2008,Hyderabad,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,SE Marsh,"Rajiv Gandhi International Stadium, Uppal",BR Doctrove
+78,IPL-2008,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,45,SA Asnodkar,Sawai Mansingh Stadium,RE Koertzen
+79,IPL-2008,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,0,V Sehwag,"MA Chidambaram Stadium, Chepauk",BF Bowden
+80,IPL-2008,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,0,R Vinay Kumar,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf
+81,IPL-2008,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kings XI Punjab,9,IK Pathan,"Punjab Cricket Association Stadium, Mohali",DJ Harper
+82,IPL-2008,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,29,SM Pollock,Dr DY Patil Sports Academy,IL Howell
+83,IPL-2008,Jaipur,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,0,Sohail Tanvir,Sawai Mansingh Stadium,Asad Rauf
+84,IPL-2008,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,S Sreesanth,M Chinnaswamy Stadium,SJ Davis
+85,IPL-2008,Chennai,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,0,AC Gilchrist,"MA Chidambaram Stadium, Chepauk",MR Benson
+86,IPL-2008,Mumbai,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,A Nehra,Dr DY Patil Sports Academy,DJ Harper
+87,IPL-2008,Delhi,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,MS Dhoni,Feroz Shah Kotla,Aleem Dar
+88,IPL-2008,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,5,SC Ganguly,Eden Gardens,Asad Rauf
+89,IPL-2008,Jaipur,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,YK Pathan,Sawai Mansingh Stadium,MR Benson
+90,IPL-2008,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,CRD Fernando,M Chinnaswamy Stadium,BF Bowden
+91,IPL-2008,Chennai,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,18,L Balaji,"MA Chidambaram Stadium, Chepauk",AV Jayaprakash
+92,IPL-2008,Hyderabad,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,23,SC Ganguly,"Rajiv Gandhi International Stadium, Uppal",IL Howell
+93,IPL-2008,Jaipur,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,SR Watson,Sawai Mansingh Stadium,SJ Davis
+94,IPL-2008,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali",BR Doctrove
+95,IPL-2008,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,23,Shoaib Akhtar,Eden Gardens,Asad Rauf
+96,IPL-2008,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,ST Jayasuriya,Wankhede Stadium,BR Doctrove
+97,IPL-2008,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,41,SE Marsh,"Punjab Cricket Association Stadium, Mohali",SJ Davis
+98,IPL-2008,Delhi,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,12,A Mishra,Feroz Shah Kotla,BG Jerling
+99,IPL-2008,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,SM Pollock,Wankhede Stadium,BR Doctrove
+100,IPL-2008,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,6,DPMD Jayawardene,Feroz Shah Kotla,AV Jayaprakash
+101,IPL-2008,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,65,GC Smith,Sawai Mansingh Stadium,BF Bowden
+102,IPL-2008,Hyderabad,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Mumbai Indians,25,DJ Bravo,"Rajiv Gandhi International Stadium, Uppal",BR Doctrove
+103,IPL-2008,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,3,M Ntini,Eden Gardens,Asad Rauf
+104,IPL-2008,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,SP Goswami,M Chinnaswamy Stadium,SJ Davis
+105,IPL-2008,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,YK Pathan,Eden Gardens,BG Jerling
+106,IPL-2008,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,1,SE Marsh,Wankhede Stadium,BF Bowden
+107,IPL-2008,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,14,A Kumble,"MA Chidambaram Stadium, Chepauk",DJ Harper
+108,IPL-2008,Chandigarh,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali",Asad Rauf
+109,IPL-2008,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,KD Karthik,Feroz Shah Kotla,BF Bowden
+110,IPL-2008,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,10,JA Morkel,"MA Chidambaram Stadium, Chepauk",DJ Harper
+111,IPL-2008,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,3,P Kumar,M Chinnaswamy Stadium,BR Doctrove
+112,IPL-2008,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kolkata Knight Riders,0,Umar Gul,Eden Gardens,SJ Davis
+113,IPL-2008,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,Sohail Tanvir,Sawai Mansingh Stadium,BF Bowden
+114,IPL-2008,Hyderabad,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,Chennai Super Kings,0,SK Raina,"Rajiv Gandhi International Stadium, Uppal",BG Jerling
+115,IPL-2008,Mumbai,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,105,SR Watson,Wankhede Stadium,BF Bowden
+116,IPL-2008,Mumbai,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,0,M Ntini,Wankhede Stadium,Asad Rauf
+117,IPL-2008,Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,YK Pathan,Dr DY Patil Sports Academy,BF Bowden
+118,IPL-2009,Cape Town,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,19,SR Tendulkar,Newlands,BR Doctrove
+119,IPL-2009,Cape Town,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,75,R Dravid,Newlands,BR Doctrove
+120,IPL-2009,Cape Town,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,DL Vettori,Newlands,MR Benson
+121,IPL-2009,Cape Town,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Deccan Chargers,0,RP Singh,Newlands,MR Benson
+122,IPL-2009,Port Elizabeth,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,92,M Muralitharan,St George's Park,BG Jerling
+123,IPL-2009,Durban,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,11,CH Gayle,Kingsmead,DJ Harper
+124,IPL-2009,Cape Town,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Deccan Chargers,24,AC Gilchrist,Newlands,M Erasmus
+125,IPL-2009,Durban,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,Delhi Daredevils,9,AB de Villiers,Kingsmead,BR Doctrove
+126,IPL-2009,Cape Town,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,0,YK Pathan,Newlands,MR Benson
+127,IPL-2009,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,RS Bopara,Kingsmead,BR Doctrove
+128,IPL-2009,Durban,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,12,PP Ojha,Kingsmead,HDPK Dharmasena
+129,IPL-2009,Port Elizabeth,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils,0,TM Dilshan,St George's Park,S Asnani
+130,IPL-2009,Cape Town,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,27,KC Sangakkara,Newlands,M Erasmus
+131,IPL-2009,Durban,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,0,HH Gibbs,Kingsmead,IL Howell
+132,IPL-2009,Port Elizabeth,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,92,SR Tendulkar,St George's Park,BG Jerling
+133,IPL-2009,Centurion,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals,0,YK Pathan,SuperSport Park,GAV Baxter
+134,IPL-2009,Durban,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,0,MV Boucher,Kingsmead,MR Benson
+135,IPL-2009,Durban,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Kings XI Punjab,3,KC Sangakkara,Kingsmead,MR Benson
+136,IPL-2009,Centurion,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,DP Nannes,SuperSport Park,GAV Baxter
+137,IPL-2009,Centurion,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,38,SK Raina,SuperSport Park,GAV Baxter
+138,IPL-2009,East London,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,9,JP Duminy,Buffalo Park,M Erasmus
+139,IPL-2009,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,8,Yuvraj Singh,Kingsmead,HDPK Dharmasena
+140,IPL-2009,Port Elizabeth,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,0,YK Pathan,St George's Park,S Asnani
+141,IPL-2009,Johannesburg,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,18,SB Jakati,New Wanderers Stadium,DJ Harper
+142,IPL-2009,Port Elizabeth,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kings XI Punjab,0,DPMD Jayawardene,St George's Park,S Asnani
+143,IPL-2009,Johannesburg,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,0,JH Kallis,New Wanderers Stadium,RE Koertzen
+144,IPL-2009,East London,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,78,MS Dhoni,Buffalo Park,BR Doctrove
+145,IPL-2009,Durban,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,78,GC Smith,Kingsmead,SS Hazare
+146,IPL-2009,Durban,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Delhi Daredevils,0,G Gambhir,Kingsmead,GAV Baxter
+147,IPL-2009,Centurion,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,19,RG Sharma,SuperSport Park,MR Benson
+148,IPL-2009,Centurion,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,A Singh,SuperSport Park,K Hariharan
+149,IPL-2009,Centurion,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,12,ML Hayden,SuperSport Park,DJ Harper
+150,IPL-2009,East London,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Delhi Daredevils,0,A Nehra,Buffalo Park,M Erasmus
+151,IPL-2009,Kimberley,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,DPMD Jayawardene,De Beers Diamond Oval,GAV Baxter
+152,IPL-2009,Kimberley,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,0,S Badrinath,De Beers Diamond Oval,GAV Baxter
+153,IPL-2009,Port Elizabeth,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,16,JP Duminy,St George's Park,BR Doctrove
+154,IPL-2009,Johannesburg,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,A Mishra,New Wanderers Stadium,SL Shastri
+155,IPL-2009,Kimberley,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,53,DR Smith,De Beers Diamond Oval,GAV Baxter
+156,IPL-2009,Centurion,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,LRPL Taylor,SuperSport Park,M Erasmus
+157,IPL-2009,Centurion,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,0,Harbhajan Singh,SuperSport Park,SS Hazare
+158,IPL-2009,Durban,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,12,R Bhatia,Kingsmead,DJ Harper
+159,IPL-2009,Durban,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,0,LRPL Taylor,Kingsmead,BR Doctrove
+160,IPL-2009,Durban,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,2,SK Warne,Kingsmead,BR Doctrove
+161,IPL-2009,Bloemfontein,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,B Lee,OUTsurance Oval,HDPK Dharmasena
+162,IPL-2009,Port Elizabeth,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,0,ML Hayden,St George's Park,SK Tarapore
+163,IPL-2009,Johannesburg,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,0,RG Sharma,New Wanderers Stadium,RE Koertzen
+164,IPL-2009,Johannesburg,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,Kings XI Punjab,1,Yuvraj Singh,New Wanderers Stadium,S Ravi
+165,IPL-2009,Bloemfontein,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,14,AB de Villiers,OUTsurance Oval,SS Hazare
+166,IPL-2009,Centurion,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,0,BJ Hodge,SuperSport Park,SJA Taufel
+167,IPL-2009,Johannesburg,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Royal Challengers Bangalore,0,JH Kallis,New Wanderers Stadium,IL Howell
+168,IPL-2009,Durban,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,LR Shukla,Kingsmead,BG Jerling
+169,IPL-2009,Durban,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,24,M Muralitharan,Kingsmead,BG Jerling
+170,IPL-2009,Centurion,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,V Sehwag,SuperSport Park,IL Howell
+171,IPL-2009,Centurion,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,12,MK Pandey,SuperSport Park,IL Howell
+172,IPL-2009,Centurion,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,0,AC Gilchrist,SuperSport Park,BR Doctrove
+173,IPL-2009,Johannesburg,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,MK Pandey,New Wanderers Stadium,RE Koertzen
+174,IPL-2009,Johannesburg,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,6,A Kumble,New Wanderers Stadium,RE Koertzen
+175,IPL-2010,Mumbai,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,Kolkata Knight Riders,11,AD Mathews,Dr DY Patil Sports Academy,RE Koertzen
+176,IPL-2010,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,4,YK Pathan,Brabourne Stadium,RE Koertzen
+177,IPL-2010,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,G Gambhir,"Punjab Cricket Association Stadium, Mohali",BR Doctrove
+178,IPL-2010,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,MK Tiwary,Eden Gardens,HDPK Dharmasena
+179,IPL-2010,Chennai,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,Deccan Chargers,31,WPUJC Vaas,"MA Chidambaram Stadium, Chepauk",K Hariharan
+180,IPL-2010,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,V Sehwag,"Sardar Patel Stadium, Motera",BG Jerling
+181,IPL-2010,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,0,JH Kallis,M Chinnaswamy Stadium,S Das
+182,IPL-2010,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,55,MS Dhoni,Eden Gardens,HDPK Dharmasena
+183,IPL-2010,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,98,SR Tendulkar,Feroz Shah Kotla,BR Doctrove
+184,IPL-2010,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,JH Kallis,M Chinnaswamy Stadium,K Hariharan
+185,IPL-2010,Delhi,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,Chennai Super Kings,0,ML Hayden,Feroz Shah Kotla,BR Doctrove
+186,IPL-2010,Cuttack,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Deccan Chargers,6,A Symonds,Barabati Stadium,BF Bowden
+187,IPL-2010,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,34,AA Jhunjhunwala,"Sardar Patel Stadium, Motera",RE Koertzen
+188,IPL-2010,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,0,JH Kallis,Brabourne Stadium,HDPK Dharmasena
+189,IPL-2010,Cuttack,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Deccan Chargers,10,A Symonds,Barabati Stadium,BF Bowden
+190,IPL-2010,Chennai,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,0,J Theron,"MA Chidambaram Stadium, Chepauk",K Hariharan
+191,IPL-2010,Mumbai,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,0,SR Tendulkar,Brabourne Stadium,SS Hazare
+192,IPL-2010,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,36,RV Uthappa,M Chinnaswamy Stadium,RE Koertzen
+193,IPL-2010,Chandigarh,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,31,AC Voges,"Punjab Cricket Association Stadium, Mohali",BR Doctrove
+194,IPL-2010,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,SR Tendulkar,Brabourne Stadium,BF Bowden
+195,IPL-2010,Ahmedabad,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,0,YK Pathan,"Sardar Patel Stadium, Motera",HDPK Dharmasena
+196,IPL-2010,Chandigarh,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kolkata Knight Riders,39,MK Tiwary,"Punjab Cricket Association Stadium, Mohali",BR Doctrove
+197,IPL-2010,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,17,KM Jadhav,M Chinnaswamy Stadium,BG Jerling
+198,IPL-2010,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,17,NV Ojha,"Sardar Patel Stadium, Motera",SS Hazare
+199,IPL-2010,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Mumbai Indians,41,Harbhajan Singh,Dr DY Patil Sports Academy,S Das
+200,IPL-2010,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Daredevils,40,DA Warner,Feroz Shah Kotla,SS Hazare
